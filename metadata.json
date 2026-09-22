@@ -1,0 +1,6 @@
+{
+  "name": "Wasselha",
+  "description": "منصة وتطبيق وصلها للربط الذكي بين المشتري والمتجر ومندوب التوصيل (الموصلاتي) مع تتبع حي ومباشر للطلبات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

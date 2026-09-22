@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rvProducts" type="id" />
+    <item name="tvOrderId" type="id" />
+    <item name="tvOrderStatus" type="id" />
+    <item name="tvOrderItems" type="id" />
+    <item name="tvDeliveryAddress" type="id" />
+    <item name="tvTotalAmount" type="id" />
+    <item name="btnRejectOrder" type="id" />
+    <item name="btnCallDriver" type="id" />
+</resources>
+
